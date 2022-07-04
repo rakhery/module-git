@@ -1,0 +1,1 @@
+function follow(userId)
